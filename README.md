@@ -1,2 +1,2 @@
-# Sundown website project
+# Sundown project
 https://bright-light.netlify.app/
